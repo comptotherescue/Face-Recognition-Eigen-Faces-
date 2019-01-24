@@ -9,3 +9,5 @@ The Proposed System increases the efﬁciency to get the information of a human 
 The image then compared with the one stored in database and hence described upon the suitable match.
 Such system with an inclination towards higher accuracy may yield great opportunities in the ﬁeld of criminal detection,
 airportsecuritysystem,facerecognition vaults,attendance system.
+
+Implemented an adaptive face recognition system. Used a technique called Eigen faces to make vectors of faces. A new image is transformed into a vector and is compared with the existing vectors. If match is not found, this new image is trained along with its information in the system.
